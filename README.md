@@ -1,0 +1,2 @@
+# TextRecognitionByCamera
+partOfLogicalCodeForTextRecognitionByCamera
